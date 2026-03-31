@@ -1,0 +1,6 @@
+﻿membership_id,tier_name,min_spend,max_spend,discount_pct,free_delivery,priority_support,src_created_date
+MEM01,Bronze,0,4999,0,N,N,2020-03-13
+MEM02,Silver,5000,14999,5,Y,N,2019-01-10
+MEM03,Gold,15000,29999,10,Y,N,2019-04-25
+MEM04,Platinum,30000,99999,15,Y,Y,2019-03-19
+MEM05,Diamond,100000,9999999,20,Y,Y,2019-06-02
