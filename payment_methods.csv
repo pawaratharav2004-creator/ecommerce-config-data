@@ -1,0 +1,9 @@
+payment_method_id,method_name,is_digital,processing_fee_pct,src_created_date
+PM01,Credit Card,Y,2.26,2019-09-15
+PM02,Debit Card,Y,0.23,2019-02-22
+PM03,UPI,Y,0,2020-03-09
+PM04,Net Banking,Y,0.11,2019-10-11
+PM05,EMI,Y,1.93,2019-12-08
+PM06,Wallet,Y,2.45,2020-10-14
+PM07,Cash on Delivery,N,0,2019-06-15
+PM08,BNPL,Y,1.38,2020-03-28
